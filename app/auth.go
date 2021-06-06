@@ -1,0 +1,6 @@
+package app
+
+//...
+// import the jwt-go library
+
+//...
